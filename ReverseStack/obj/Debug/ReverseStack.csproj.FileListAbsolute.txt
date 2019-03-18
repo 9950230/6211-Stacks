@@ -1,0 +1,7 @@
+C:\Users\9950230\source\repos\Stacks\ReverseStack\bin\Debug\ReverseStack.exe.config
+C:\Users\9950230\source\repos\Stacks\ReverseStack\bin\Debug\ReverseStack.exe
+C:\Users\9950230\source\repos\Stacks\ReverseStack\bin\Debug\ReverseStack.pdb
+C:\Users\9950230\source\repos\Stacks\ReverseStack\obj\Debug\ReverseStack.csprojAssemblyReference.cache
+C:\Users\9950230\source\repos\Stacks\ReverseStack\obj\Debug\ReverseStack.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\Stacks\ReverseStack\obj\Debug\ReverseStack.exe
+C:\Users\9950230\source\repos\Stacks\ReverseStack\obj\Debug\ReverseStack.pdb

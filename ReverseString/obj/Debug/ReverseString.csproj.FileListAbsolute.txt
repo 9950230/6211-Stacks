@@ -1,0 +1,6 @@
+C:\Users\9950230\source\repos\Stacks\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\9950230\source\repos\Stacks\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\9950230\source\repos\Stacks\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\9950230\source\repos\Stacks\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\Stacks\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\9950230\source\repos\Stacks\ReverseString\obj\Debug\ReverseString.pdb
